@@ -1,4 +1,5 @@
 News Summarizer
+
 This is a Python application that uses Tkinter for the graphical user interface (GUI) to summarize news articles, translate summaries, and fetch more articles based on user input. It utilizes the newspaper3k library to parse and summarize articles, and googletrans for translations.
 
 Features
